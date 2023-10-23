@@ -16,6 +16,7 @@ const holidays = [
   'Labor Day',
   'Columbus Day',
   'Thanksgiving',
+  "Christmas"
 ];
 
 const places = [
